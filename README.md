@@ -15,15 +15,16 @@ I am a Data Science student passionate about transforming complex data into acti
 | Languages & Frameworks | Databases | Data Science | Tools & Platforms |
 | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=python,r,c,cpp,django,react,expressjs" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | 
-<img src="https://img.shields.io/badge/pandas-150458.svg?&logo=pandas&logoColor=white" /> 
-<img src="https://img.shields.io/badge/numpy-013243.svg?&logo=numpy&logoColor=white" /> 
-<img src="https://img.shields.io/badge/matplotlib-ffffff.svg?&logo=plotly&logoColor=black" /> 
-<img src="https://img.shields.io/badge/seaborn-76b7b2.svg?&logo=python&logoColor=white" /> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" width="40"/> 
 <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch" /> | 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" /> 
-<img src="https://img.shields.io/badge/jupyter-F37626.svg?&logo=jupyter&logoColor=white" /> 
-<img src="https://img.shields.io/badge/excel-217346.svg?&logo=microsoft-excel&logoColor=white" /> 
-<img src="https://img.shields.io/badge/power%20bi-F2C811.svg?&logo=power-bi&logoColor=black" /> |
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="40"/> |
+
 
 ---
 
