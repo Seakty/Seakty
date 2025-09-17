@@ -12,11 +12,38 @@ I am a Data Science student passionate about transforming complex data into acti
 
 ### **🚀 My Tech Stack & Toolbox**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,sql,postgres,flask,fastapi,pandas,numpy,seaborn,matplotlib,excel,git,github,vscode,react,express,javascript" />
-  </a>
-</p>
+### 🚀 My Tech Stack & Toolbox
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#-language--frameworks">
+        <img src="https://skillicons.dev/icons?i=python,r,c,c++,django,react,express" />
+      </a>
+      <br>Languages & Frameworks
+    </td>
+    <td align="center" width="96">
+      <a href="#-databases">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+      </a>
+      <br>Databases
+    </td>
+    <td align="center" width="96">
+      <a href="#-data-science">
+        <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,sklearn,pytorch" />
+      </a>
+      <br>Data Science
+    </td>
+     <td align="center" width="96">
+      <a href="#-tools--platforms">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,excel,powerbi" />
+      </a>
+      <br>Tools & Platforms
+    </td>
+  </tr>
+</table>
+
+---
 
 ---
 
