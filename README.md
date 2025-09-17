@@ -14,7 +14,16 @@ I am a Data Science student passionate about transforming complex data into acti
 
 | Languages & Frameworks | Databases | Data Science | Tools & Platforms |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=r" /> <img src="https://skillicons.dev/icons?i=c,cpp" /> <img src="https://skillicons.dev/icons?i=django" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=expressjs" /> | <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=postgres" /> | <img src="https://skillicons.dev/icons?i=pandas" /> <img src="https://skillicons.dev/icons?i=numpy" /> <img src="https://skillicons.dev/icons?i=matplotlib" /> <img src="https://skillicons.dev/icons?i=seaborn" /> <img src="https://skillicons.dev/icons?i=scikitlearn" /> <img src="https://skillicons.dev/icons?i=pytorch" /> | <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=jupyter" /> <img src="https://skillicons.dev/icons?i=excel" /> <img src="https://skillicons.dev/icons?i=powerbi" /> |
+| <img src="https://skillicons.dev/icons?i=python,r,c,cpp,django,react,expressjs" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | 
+<img src="https://img.shields.io/badge/pandas-150458.svg?&logo=pandas&logoColor=white" /> 
+<img src="https://img.shields.io/badge/numpy-013243.svg?&logo=numpy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/matplotlib-ffffff.svg?&logo=plotly&logoColor=black" /> 
+<img src="https://img.shields.io/badge/seaborn-76b7b2.svg?&logo=python&logoColor=white" /> 
+<img src="https://skillicons.dev/icons?i=scikitlearn,pytorch" /> | 
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /> 
+<img src="https://img.shields.io/badge/jupyter-F37626.svg?&logo=jupyter&logoColor=white" /> 
+<img src="https://img.shields.io/badge/excel-217346.svg?&logo=microsoft-excel&logoColor=white" /> 
+<img src="https://img.shields.io/badge/power%20bi-F2C811.svg?&logo=power-bi&logoColor=black" /> |
 
 ---
 
