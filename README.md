@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Seakty/Seakty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Hi there, I'm Seakty** 👋
 
-Here are some ideas to get you started:
+## **A Data-Driven Architect & Aspiring AI Engineer from Phnom Penh 🇰🇭**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+I am a Data Science student passionate about transforming complex data into actionable insights and building intelligent systems. My mission is to become a **Master Craftsman**—combining technical skill with strategic thinking to create robust, valuable solutions from the ground up.
+
+---
+
+### **🚀 My Tech Stack & Toolbox**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,sql,postgres,flask,fastapi,pandas,numpy,seaborn,matplotlib,excel,git,github,vscode,react,express,javascript" />
+  </a>
+</p>
+
+---
+
+### **🎯 Current Focus & Learning Journey**
+
+Right now, my energy is dedicated to these key areas:
+
+* **🧠 Deepening my knowledge** of Machine Learning algorithms and principles.
+* **🔨 Forging my skills** in web development. 
+
+---
+
+### **🤝 Let's Connect**
+
+I'm always open to collaborating on interesting projects or just talking about tech.
+
+* **[Gmail](mailto:sambathseakty@gmail.com)** - or DM me here, Feel free to reach out.
