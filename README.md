@@ -14,18 +14,7 @@ I am a Data Science student passionate about transforming complex data into acti
 
 | Languages & Frameworks | Databases | Data Science | Tools & Platforms |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,r,c,cpp,django,react,expressjs" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" width="40"/> 
-<img src="https://skillicons.dev/icons?i=scikitlearn,pytorch" /> | 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="40"/> |
-
-
+| <img src="https://skillicons.dev/icons?i=python,r,c,cpp,django,react,expressjs" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
 ---
 
 ### **🎯 Current Focus & Learning Journey**
