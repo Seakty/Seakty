@@ -12,38 +12,9 @@ I am a Data Science student passionate about transforming complex data into acti
 
 ### **🚀 My Tech Stack & Toolbox**
 
-### 🚀 My Tech Stack & Toolbox
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#-language--frameworks">
-        <img src="https://skillicons.dev/icons?i=python,r,c,c++,django,react,express" />
-      </a>
-      <br>Languages & Frameworks
-    </td>
-    <td align="center" width="96">
-      <a href="#-databases">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-      </a>
-      <br>Databases
-    </td>
-    <td align="center" width="96">
-      <a href="#-data-science">
-        <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,sklearn,pytorch" />
-      </a>
-      <br>Data Science
-    </td>
-     <td align="center" width="96">
-      <a href="#-tools--platforms">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,excel,powerbi" />
-      </a>
-      <br>Tools & Platforms
-    </td>
-  </tr>
-</table>
-
----
+| Languages & Frameworks | Databases | Data Science | Tools & Platforms |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,r,c,c++,django,react,express" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,sklearn,pytorch" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,excel,powerbi" /> |
 
 ---
 
