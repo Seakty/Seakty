@@ -14,7 +14,7 @@ I am a Data Science student passionate about transforming complex data into acti
 
 | Languages & Frameworks | Databases | Data Science | Tools & Platforms |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,r,c,cpp" /> <img src="https://skillicons.dev/icons?i=django,react,expressjs" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" /> <img src="https://skillicons.dev/icons?i=seaborn,scikitlearn,pytorch" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <img src="https://skillicons.dev/icons?i=jupyter,excel,powerbi" /> |
+| <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=r" /> <img src="https://skillicons.dev/icons?i=c,cpp" /> <img src="https://skillicons.dev/icons?i=django" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=expressjs" /> | <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=postgres" /> | <img src="https://skillicons.dev/icons?i=pandas" /> <img src="https://skillicons.dev/icons?i=numpy" /> <img src="https://skillicons.dev/icons?i=matplotlib" /> <img src="https://skillicons.dev/icons?i=seaborn" /> <img src="https://skillicons.dev/icons?i=scikitlearn" /> <img src="https://skillicons.dev/icons?i=pytorch" /> | <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=jupyter" /> <img src="https://skillicons.dev/icons?i=excel" /> <img src="https://skillicons.dev/icons?i=powerbi" /> |
 
 ---
 
