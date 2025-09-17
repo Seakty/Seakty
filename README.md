@@ -14,7 +14,7 @@ I am a Data Science student passionate about transforming complex data into acti
 
 | Languages & Frameworks | Databases | Data Science | Tools & Platforms |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,r,c,cpp,django,react,expressjs" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikitlearn,pytorch" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,excel,powerbi" /> |
+| <img src="https://skillicons.dev/icons?i=python,r,c,cpp" /> <img src="https://skillicons.dev/icons?i=django,react,expressjs" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" /> <img src="https://skillicons.dev/icons?i=seaborn,scikitlearn,pytorch" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <img src="https://skillicons.dev/icons?i=jupyter,excel,powerbi" /> |
 
 ---
 
